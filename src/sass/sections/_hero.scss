@@ -52,7 +52,6 @@
 
   .hero-cta {
     display: flex;
-
     @include respond(tab-port) {
       justify-content: center;
     }
